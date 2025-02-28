@@ -14,9 +14,9 @@ public class MQTTsml : M2MqttUnityClient
 
 protected override void Start()
 brokerPort = 1883;
-brokerAddress = "dmt.fh-joanneum.at";
-mqttUserName = "dmt";
-mqttPassword = "xxxxxx";
+brokerAddress = "your server";   // for exampe dmt.fh-joanneum.at
+mqttUserName  = "your_username";
+mqttPassword  = "you passwort";
             
 public void TestPublish()
 ```
