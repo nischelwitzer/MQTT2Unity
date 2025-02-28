@@ -9,7 +9,7 @@ Original: https://github.com/gpvigano/M2MqttUnity
 
 https://github.com/nischelwitzer/MQTT2Unity/blob/main/scripts/MQTTsml.cs
 
-...
+```
 public class MQTTsml : M2MqttUnityClient
 
 protected override void Start()
@@ -19,7 +19,7 @@ mqttUserName = "dmt";
 mqttPassword = "xxxxxx";
             
 public void TestPublish()
-...
+```
 
 # MQTT2Unity Working Sheet
 
