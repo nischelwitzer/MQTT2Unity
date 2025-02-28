@@ -1,5 +1,4 @@
-# MQTT2Unity
-MQTT with Unity
+# MQTT2Unity - MQTT with Unity and C#
 
 Base code:
 Fork: https://github.com/nischelwitzer/M2MqttUnity
